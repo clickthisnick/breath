@@ -1,4 +1,4 @@
 # breath
 
 # demo
-https://rawgit.com/clickthisnick/breath/master/breath.html
+https://www.clickthisnick.com/breath/breath.html
